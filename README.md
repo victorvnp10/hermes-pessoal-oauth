@@ -1,2 +1,5 @@
-# hermes-pessoal-oauth
-Páginas do app Hermes Pessoal (home, política de privacidade e termos) exigidas pelo Google para publicar o cliente OAuth. Uso individual.
+# Hermes Pessoal — páginas de identificação
+
+Página inicial, Política de Privacidade e Termos de Uso do aplicativo **Hermes Pessoal**,
+exigidos pelo Google para publicar o cliente OAuth. Aplicativo individual, de uso exclusivo
+do proprietário; sem dados pessoais de terceiros.
